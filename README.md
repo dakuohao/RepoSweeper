@@ -1,4 +1,25 @@
- <h1 align='center'> RepoSweeper (Mass-Delete GitHub Repositories) </h1>
+# 批量删除GitHub代码库
+时间久了，GitHub就会有很多乱糟糟的库，官方没有提供批量删除的可视化操作
+google的员工自己写了一个，使用js调用github的token，可视化操作
+这里是一个fork备份
+
+直接使用，请访问：https://www.reposweeper.com/#login_main
+
+## 使用过程
+1.创建token https://github.com/settings/tokens
+![image](https://user-images.githubusercontent.com/19989280/167329809-ea0dd98d-c867-482d-820e-2c60fa39f89b.png)
+2.赋予删除权限
+![image](https://user-images.githubusercontent.com/19989280/167329855-e72a617b-41fd-4837-8fc3-b6c93de9b590.png)
+3.可视化删除：
+https://www.reposweeper.com/#login_main
+![image](https://user-images.githubusercontent.com/19989280/167329981-00bcff47-4f9c-4614-aee1-b3bce3e18b32.png)
+![image](https://user-images.githubusercontent.com/19989280/167329991-7df12c15-f6fd-4795-a893-9f74c9dd04fa.png)
+
+
+
+---
+
+<h1 align='center'> RepoSweeper (Mass-Delete GitHub Repositories) </h1>
 
  <img src="./RepoSweeper.png" alt=""/>
 
